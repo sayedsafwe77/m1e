@@ -1,0 +1,70 @@
+/* css selectors */
+/* select using tag name */
+
+/* p {
+  color: red;
+} */
+/* select using class */
+/* .p-color {
+  color: blue !important;
+}
+.p-color-2 {
+  color: rgb(37, 171, 164) !important;
+}
+
+.p-text {
+  font-size: 20px;
+} */
+/* select using id */
+/* #para-1 {
+  color: green;
+} */
+
+/* tag name  1*/
+/* class     100 */
+/* id        1000*/
+/* inline style 10000 */
+/* important  100000*/
+
+/* .header-text {
+  background: red;
+}
+
+.header {
+  background: blue;
+} */
+/* 200 */
+/* .header .header-text {
+  background: green;
+} */
+/* 101 */
+/* .header h1 {
+  background: goldenrod !important;
+} */
+
+/* .header-logo h1 {
+  background: blueviolet;
+} */
+
+/* h1.header-text {
+  background: red;
+}
+.header-text {
+  background: violet;
+} */
+/* * {
+  font-size: 50px;
+} */
+
+/* p,
+h1,
+h2 {
+  color: red;
+} */
+
+/* div:first-child {
+  background: red;
+} */
+/* div:nth-child(2) {
+  background: red;
+} */
